@@ -1,2 +1,16 @@
-# wellcore-resourcepack
-WellCore Minecraft resource pack (egyedi itemek: WellCore Erme, HD kard)
+# WellCore resource pack
+
+A WellCore Minecraft-hálózat resource packja: egyedi item-kinézetek.
+
+- **WellCore Érme**: arany érme kék „mag” kristállyal, animált (lassú fényvillanás), 32×32
+- **WellCore HD kard**: 512×512-es, animált
+
+A csomagot a szerver küldi ki a játékosoknak belépéskor, kézzel nem kell telepíteni.
+
+## Verziók
+| Verzió | Fájl | SHA-1 |
+|---|---|---|
+| v1 | `wellcore-pack.zip` | `00824e2bb5bf765601fe43453804bf3223956fe2` |
+
+Letöltés: a [Releases](../../releases) oldalon, vagy közvetlenül:
+`https://raw.githubusercontent.com/qualitexkft-hub/wellcore-resourcepack/v1/wellcore-pack.zip`

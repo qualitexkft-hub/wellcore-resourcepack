@@ -16,6 +16,7 @@ A csomagot a szerver küldi ki a játékosoknak belépéskor, kézzel nem kell t
 | v1 | `wellcore-pack.zip` | `00824e2bb5bf765601fe43453804bf3223956fe2` |
 | v2 | `wellcore-pack.zip` | `7882169e4c651b43b96c28a3f430d9ef1798acd6` |
 | v3 | `wellcore-pack.zip` | `6df2bc50c585d130a1b92eee53d22b9a218a4e1d` |
+| v4 | `wellcore-pack.zip` | `6476ca37ccda2724de860183a2e5a2ab3c575600` |
 
 Letöltés: a [Releases](../../releases) oldalon, vagy közvetlenül:
 `https://raw.githubusercontent.com/qualitexkft-hub/wellcore-resourcepack/v1/wellcore-pack.zip` (v1)

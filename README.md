@@ -8,6 +8,8 @@ A WellCore Minecraft-hálózat resource packja: egyedi item-kinézetek.
 - **Egyedi tárgyak** (v3): Mágnes, Útkereső, Aratókapa, Favágó-fejsze, Tarisznya, Ostor-horog, kulcs, Bányász-csákány (32×32)
 - **Kőszív boss modell** (v3): animálható, 14 részből álló 3D alak (normál, jégpáncélos és dühös változattal)
 
+- **NPC-skinek** (v6): a hat álló NPC (Bankár, Mérnök, Árus, Megbízás-adó, Kalauz, Munkaközvetítő) kinézete; a skineket a minecraftskins.net közösségének alkotói készítették: YSDGamer (Navy Suit), GumBeau (Construction Worker), BenJamestein (Baker), JustFish (Brute Assassin, Green Explorer), isens00 (Office Worker)
+
 A csomagot a szerver küldi ki a játékosoknak belépéskor, kézzel nem kell telepíteni.
 
 ## Verziók

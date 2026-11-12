@@ -10,6 +10,8 @@ A WellCore Minecraft-hálózat resource packja: egyedi item-kinézetek.
 
 - **NPC-skinek** (v6): a hat álló NPC (Bankár, Mérnök, Árus, Megbízás-adó, Kalauz, Munkaközvetítő) kinézete; a skineket a minecraftskins.net közösségének alkotói készítették: YSDGamer (Navy Suit), GumBeau (Construction Worker), BenJamestein (Baker), JustFish (Brute Assassin, Green Explorer), isens00 (Office Worker)
 
+- **Rabló-fejviseletek** (v7): hat egyedi 3D fejviselet a rablóknak (Fosztogató, Rabló-harcos, Számszeríjász, Tolvaj, Bontó, Csapatvezér)
+
 A csomagot a szerver küldi ki a játékosoknak belépéskor, kézzel nem kell telepíteni.
 
 ## Verziók

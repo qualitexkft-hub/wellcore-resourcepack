@@ -12,6 +12,8 @@ A WellCore Minecraft-hálózat resource packja: egyedi item-kinézetek.
 
 - **Rabló-fejviseletek** (v7): hat egyedi 3D fejviselet a rablóknak (Fosztogató, Rabló-harcos, Számszeríjász, Tolvaj, Bontó, Csapatvezér)
 
+- **Kútvár NPC-skinek** (v8): húsz játékos-szerű skin a Kútvár lakóinak (kovács, fegyvermester, lovag, pék, mészáros, halász, gazda, kertész, favágó, bányász, feltaláló, szövő, asztalos, kereskedő, utazó, király, bolond, öreg, két gyerek); a skineket a minecraftskins.net közösségének alkotói készítették: Treaty, Keekclipse, mochhi, Moxie, Larry (ismeretlen alkotó), Maelztromz, Astronotty_x0, dandy, Avarikk., beginningtwo, LuisGoldacre, tallymarks, Jassim, Zelen, McLizzy, Lorete, Sixies, Althestane, MY135, FireFlames
+
 A csomagot a szerver küldi ki a játékosoknak belépéskor, kézzel nem kell telepíteni.
 
 ## Verziók
